@@ -12,7 +12,7 @@ Together, they take the things your character would pick up throughout the game 
 Use the mod and the apworld from the same [release](https://github.com/Chris-Is-Awesome/DDArchipelagoRandomizer/releases/latest).
 
 > [!IMPORTANT]
-> This is in an early alpha stage! You may experience errors that disrupt play. Please report these errors in Issues here or in the Death's Door thread of the `future-game-design` forum on the Archipelago Discord (see [Contributing](#contributing) below).
+> This is in a stable beta stage! If you do experience errors that disrupt play, please report these errors in Issues here or in the Death's Door thread of the `Custom-games` forum on the Archipelago Discord (see [Contributing](#contributing) below).
 
 ## Contents
 - [Setup](#setup)
@@ -190,7 +190,7 @@ These are set in your yaml before generating. The template yaml describes each o
 
 ## Contributing
 
-If you're interested in helping out, join the discussion in the [Archipelago Discord server](https://discord.com/invite/8Z65BR2). We talk about the development of this in the Death's Door thread in the `future-game-design` forum!
+If you're interested in helping out, join the discussion in the [Archipelago Discord server](https://discord.com/invite/8Z65BR2). We talk about the development of this in the Death's Door thread in the `custom-games` forum!
 
 ### Building the mod
 
